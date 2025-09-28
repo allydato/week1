@@ -1,5 +1,6 @@
 ---
 title: "Lab 1: Gapminder Data Visualization"
+author: "Alissa Chong"
 format:
   html:
     embed-resources: true
